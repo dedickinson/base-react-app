@@ -1,0 +1,14 @@
+[ignore]
+.*/build/.*
+server/**/.*
+
+[include]
+src/**/*.js
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]

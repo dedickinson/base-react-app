@@ -1,0 +1,7 @@
+{
+    "flow.pathToFlow": "npx flow",
+    "flow.runOnAllFiles": true,
+    "typescript.validate.enable": false,
+    "javascript.validate.enable": false,
+    "python.pythonPath": "/usr/local/bin/python3"
+}
